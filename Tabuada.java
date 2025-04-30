@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 0865c882e0ae3289fcac236978977cc8153e41cf
 import java.util.Scanner;
 
 public class Tabuada {
