@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ex04 {
+public class ex14 {
     public static void main(String[] args) {
      /*
       * Exercício 4: Identificação de Dia Útil

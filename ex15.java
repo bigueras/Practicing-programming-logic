@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ex05 {
+public class ex15 {
     public static void main(String[] args) {
         /*
          * Exercício 5: Verificação de Intervalo com AND

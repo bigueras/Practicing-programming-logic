@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class ex01 {
+public class ex011 {
     public static void main(String[] args) {
        /*
         * > Exercício 1: Verificação de Categoria de Preço

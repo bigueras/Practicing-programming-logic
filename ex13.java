@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ex03 {
+public class ex13 {
     public static void main(String[] args) {
         /*
          * Exercício 3: Identificação de Paridade com Strings
